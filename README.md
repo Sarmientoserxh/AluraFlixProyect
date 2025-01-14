@@ -21,7 +21,7 @@ Inicia JSON Server:
 `npx json-server --watch db.json --port 3001`
 Inicia la aplicación:
 
-`npm run dev`
+`npm run dev` <br/>
 La aplicación estará disponible en http://localhost:3000.
 
 🛠️ Uso
