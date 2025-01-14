@@ -22,7 +22,7 @@ Inicia JSON Server:
 Inicia la aplicación:
 
 `npm run dev` <br/>
-La aplicación estará disponible en http://localhost:3000.
+La aplicación estará disponible en http://localhost:numero que proponga vite.
 
 🛠️ Uso
 En aluraFlix, puedes realizar las siguientes operaciones CRUD en la gestión de videos:
