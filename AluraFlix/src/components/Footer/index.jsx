@@ -1,4 +1,4 @@
-import logo from '/images/logo.png';
+import logo from '/images/LogoMain.png?url';
 import styled from "styled-components";
 
 const Foot = styled.footer`
@@ -8,9 +8,12 @@ const Foot = styled.footer`
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 30px;
+    border: 5px solid transparent;
+    box-shadow: 0 0 15px 3px #2271D1;
     
     img {
-        width: 100%;
+        width: 15%;
     }
 `
 

@@ -1,0 +1,81 @@
+{
+  "videos": [
+    {
+      "id": "9b0a",
+      "name": "Motivación y Buenos Hábitos: Claves para Estudiar con Éxito #aluratips",
+      "imagen": "https://i.ytimg.com/vi/TNJbxPaB6cA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7LxP_VSfMPDJPorff04boGyqzMQ",
+      "videoLink": "https://youtu.be/TNJbxPaB6cA",
+      "description": "Un video para la motivación y buenos hábitos.",
+      "category": {
+        "name": "Innovación y Gestión"
+      },
+      "frame": "<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/TNJbxPaB6cA\" title=\"Motivación y Buenos Hábitos: Claves para Estudiar con Éxito #aluratips\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+      "id": "d2b7",
+      "name": "Como volverse un desarrollador FrontEnd",
+      "imagen": "https://youtu.be/-Ou5c3A225k?feature=shared",
+      "videoLink": "https://youtu.be/-Ou5c3A225k?feature=shared",
+      "description": "Para un desarrollo es muy importante saber que rama vas a estar.",
+      "category": {
+        "name": "FrontEnd"
+      },
+      "frame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-Ou5c3A225k?si=EqC8ekIdZPCqyhRA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+      "id": "0fda",
+      "name": "Ventajas Autodidactas",
+      "imagen": "https://youtu.be/xdzz3_WqFmE?feature=shared",
+      "videoLink": "https://youtu.be/xdzz3_WqFmE?feature=shared",
+      "description": "ventaja para los que desean aprender de manera autodidacta",
+      "category": {
+        "name": "Innovación y Gestión"
+      },
+      "frame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xdzz3_WqFmE?si=dkPrqklOsLux3DqT\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+      "id": "79ae",
+      "name": "Camino hacia el exito Java",
+      "imagen": "https://youtu.be/zOetOoeOrOg?feature=shared",
+      "videoLink": "https://youtu.be/zOetOoeOrOg?feature=shared",
+      "description": "Video para backend en la parte de java.",
+      "category": {
+        "name": "BackEnd"
+      },
+      "frame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zOetOoeOrOg?si=d7ysdtsvw7JcswvS\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+      "id": "ef8e",
+      "name": "Porque utilizar typeScript en React",
+      "imagen": "https://youtu.be/RLZ7-ZfkwOE?feature=shared",
+      "videoLink": "https://youtu.be/RLZ7-ZfkwOE?feature=shared",
+      "description": "video de porque es importante usar typeScript en proyectos de React.",
+      "category": {
+        "name": "FrontEnd"
+      },
+      "frame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RLZ7-ZfkwOE?si=1pvtrtAyGJV_c4AU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+      "id": "1ecc",
+      "name": "Evolución de Js a Ts",
+      "imagen": "https://youtu.be/BaRZEFHI-oY?feature=shared",
+      "videoLink": "https://youtu.be/BaRZEFHI-oY?feature=shared",
+      "description": "prueba de que voy a aprender TS ;v.",
+      "category": {
+        "name": "FrontEnd"
+      },
+      "frame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BaRZEFHI-oY?si=phfwvw2wSuSd3AVy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+      "name": "Api key Backend",
+      "imagen": "https://youtu.be/h6kCbWt6rzc?feature=shared",
+      "videoLink": "https://youtu.be/h6kCbWt6rzc?feature=shared",
+      "description": "el backeeeeend",
+      "category": {
+        "name": "BackEnd"
+      },
+      "frame": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/h6kCbWt6rzc?si=bX_x5DQlDEkAGdOe\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "id": "8471"
+    }
+  ]
+}
