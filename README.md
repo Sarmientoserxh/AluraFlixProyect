@@ -1,4 +1,4 @@
-📹 aluraFlix
+# 📹 aluraFlix
 aluraFlix es una aplicación de gestión de videos creada con React y JavaScript, utilizando Vite para el desarrollo rápido y una API falsa con JSON Server para simular operaciones CRUD (Crear, Leer, Actualizar, Borrar).
 
 🚀 Comenzando
